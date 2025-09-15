@@ -1,4 +1,7 @@
 body{
+    background-color: #EEEEEE;
+    background-image: url(./img/KattBild.jpg);
+    background-repeat: repeat;
 h1{
     background-color:yellow;
 }
@@ -11,5 +14,9 @@ ul{
 }
 a{
     background-color:cyan;
+}
+img{
+    max-width:auto;
+    max-height:400;
 }
 }
